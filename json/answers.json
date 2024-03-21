@@ -1,0 +1,148 @@
+{
+    "answers": {
+        "request_1": {
+            "relevance": [
+                {
+                    "docid": "1",
+                    "rank": "0.024000",
+                    "search word": "sunt"
+                },
+                {
+                    "docid": "4",
+                    "rank": "0.019000",
+                    "search word": "sunt"
+                },
+                {
+                    "docid": "3",
+                    "rank": "0.018000",
+                    "search word": "sunt"
+                },
+                {
+                    "docid": "2",
+                    "rank": "0.017000",
+                    "search word": "sunt"
+                },
+                {
+                    "docid": "0",
+                    "rank": "0.016000",
+                    "search word": "sunt"
+                }
+            ],
+            "result": true
+        },
+        "request_2": {
+            "relevance": [
+                {
+                    "docid": "0",
+                    "rank": "0.025000",
+                    "search word": "dolore car six"
+                },
+                {
+                    "docid": "4",
+                    "rank": "0.023000",
+                    "search word": "dolore car six"
+                },
+                {
+                    "docid": "3",
+                    "rank": "0.021000",
+                    "search word": "dolore car six"
+                },
+                {
+                    "docid": "1",
+                    "rank": "0.017000",
+                    "search word": "dolore car six"
+                },
+                {
+                    "docid": "2",
+                    "rank": "0.016000",
+                    "search word": "dolore car six"
+                }
+            ],
+            "result": true
+        },
+        "request_3": {
+            "relevance": [
+                {
+                    "docid": "2",
+                    "rank": "0.001000",
+                    "search word": "car"
+                }
+            ],
+            "result": true
+        },
+        "request_4": {
+            "relevance": [
+                {
+                    "docid": "3",
+                    "rank": "0.003000",
+                    "search word": "six"
+                }
+            ],
+            "result": true
+        },
+        "request_5": {
+            "relevance": [
+                {
+                    "docid": "3",
+                    "rank": "0.035000",
+                    "search word": "sit veniam"
+                },
+                {
+                    "docid": "4",
+                    "rank": "0.031000",
+                    "search word": "sit veniam"
+                },
+                {
+                    "docid": "0",
+                    "rank": "0.028000",
+                    "search word": "sit veniam"
+                },
+                {
+                    "docid": "1",
+                    "rank": "0.027000",
+                    "search word": "sit veniam"
+                },
+                {
+                    "docid": "2",
+                    "rank": "0.025000",
+                    "search word": "sit veniam"
+                }
+            ],
+            "result": true
+        },
+        "request_6": {
+            "relevance": [
+                {
+                    "docid": "3",
+                    "rank": "0.020000",
+                    "search word": "good man elit"
+                },
+                {
+                    "docid": "1",
+                    "rank": "0.019000",
+                    "search word": "good man elit"
+                },
+                {
+                    "docid": "4",
+                    "rank": "0.019000",
+                    "search word": "good man elit"
+                },
+                {
+                    "docid": "0",
+                    "rank": "0.013000",
+                    "search word": "good man elit"
+                },
+                {
+                    "docid": "2",
+                    "rank": "0.013000",
+                    "search word": "good man elit"
+                }
+            ],
+            "result": true
+        },
+        "request_7": {
+            "result": false,
+            "search word": "qweq"
+        }
+    }
+}
