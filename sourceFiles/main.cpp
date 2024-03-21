@@ -49,6 +49,8 @@ int main() {
 
             converterJSON.putAnswers(convert(searchServer.search(converterJSON.GetRequests())));
 
+            cout << endl << "Результат в файле answers. " << endl << endl;
+
         }else if (command == "create a request" || command == "C") {
 
             converterJSON.createRequest();

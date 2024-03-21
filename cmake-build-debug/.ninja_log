@@ -6,3 +6,14 @@
 1	6027	7326544519657209	sourceFiles/CMakeFiles/project.dir/converter_JSON.cpp.obj	82ca68f5b2e3ee07
 7	1734	7326546002964401	sourceFiles/project.exe	f65a23acf8457413
 6028	7798	7326544537500933	C:/CLion/project/project.exe	6a92c87a0bf303f3
+38	2361	7327190737325453	sourceFiles/CMakeFiles/project.dir/inverted_index.cpp.obj	381305a3d81810a0
+56	2415	7327190737901488	sourceFiles/CMakeFiles/project.dir/search_server.cpp.obj	a4a1f5e603d538a4
+46	3900	7327190752732193	sourceFiles/CMakeFiles/project.dir/main.cpp.obj	a7ca7d79af92cc0f
+6	5733	7327190770966647	sourceFiles/CMakeFiles/project.dir/converter_JSON.cpp.obj	82ca68f5b2e3ee07
+5733	7617	7327190789868670	C:/CLion/project/project.exe	6a92c87a0bf303f3
+7	3153	7327196121397180	sourceFiles/CMakeFiles/project.dir/main.cpp.obj	a7ca7d79af92cc0f
+3153	4815	7327196138053441	C:/CLion/project/project.exe	6a92c87a0bf303f3
+9	3330	7327197006137820	sourceFiles/CMakeFiles/project.dir/main.cpp.obj	a7ca7d79af92cc0f
+3330	4990	7327197022750590	C:/CLion/project/project.exe	6a92c87a0bf303f3
+7	3101	7327197283652342	sourceFiles/CMakeFiles/project.dir/main.cpp.obj	a7ca7d79af92cc0f
+3102	4763	7327197300220767	C:/CLion/project/project.exe	6a92c87a0bf303f3
